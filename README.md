@@ -11,4 +11,4 @@ Interactive e-commerce store built on a Java Gui using swing
 
 # Images Of The Application Running
 
-![Home Page](Images/Screen Shot a..png)
+![HomePage](Images/Screen Shot a..png)
