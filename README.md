@@ -9,4 +9,6 @@ Interactive e-commerce store built on a Java Gui using swing
 * Implemented functinality to the GUI: JButton, JFrame, JLabel, JOptionPane, JTextField, ArrayList, FileScanner, readItems, & writeItems.
 * Integrated java.util.Scanner to take the users input and scan the mock database file, looking for the item that contains the ID the user typed.
 
+# Images Of The Application Running
 
+![Home Page](Images/Screen Shot a..png)
